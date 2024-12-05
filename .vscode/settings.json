@@ -1,3 +1,4 @@
 {
-    "java.format.settings.profile": "GoogleStyle"
+    "java.format.settings.profile": "GoogleStyle",
+    "java.debug.settings.onBuildFailureProceed": true
 }
